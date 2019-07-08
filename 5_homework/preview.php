@@ -17,7 +17,7 @@ $pictmp=$_SESSION['tmpname'];
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Vacrd產生器</title>
+    <title>Vacrd_嘟~嘟嚕</title>
     <link rel="stylesheet" type="text/css" href="layout/<?=$layout?>.css">
 </head>
 <body>
